@@ -1,0 +1,5 @@
+t = (2,3,4,1)
+s = list(t)
+s.remove(s[0])
+d = tuple(s)
+print(d,type(d))

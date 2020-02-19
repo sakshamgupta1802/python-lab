@@ -1,0 +1,2 @@
+a = tuple()
+print(a)
